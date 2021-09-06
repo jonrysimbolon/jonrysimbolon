@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonrysimbolon
-- 👀 I’m interested in android developer
+- 👀 I’m interested in android programming
 - 🌱 I’m currently learning UI/UX Android and MVVM, MVC, MVP Pattern Android
 
 - 📫 How to reach me 
