@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonrysimbolon
 - 👀 I’m interested in android programming
-- 🌱 I’m currently learn gradle, kotlin, generic, collection, kotlin unit test, software architecture and MVVM, MVC, MVP Pattern Android
+- 🌱 I’m currently learn kotlin unit test/ instrument test, Coroutine, MVVM, MVC, and MVP
 
 - 📫 How to reach me 
   - linkedin : -https://www.linkedin.com/in/jonry-simbolon-295b84134/
