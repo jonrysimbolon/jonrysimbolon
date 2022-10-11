@@ -3,7 +3,7 @@
 - 🌱 I’m currently learn kotlin unit test/ instrument test, MVVM, MVC, and MVP
 
 [![@jonrysimbolon19's Holopin board](https://holopin.io/api/user/board?user=jonrysimbolon19)](https://holopin.io/@jonrysimbolon19)
-[![@jonrysimbolon19's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon19)](https://github.com/jonrysimbolon19/github-readme-stats)
+[![@jonrysimbolon19's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon)](https://github.com/jonrysimbolon/github-readme-stats)
 
 <!---
 - 📫 How to reach me 
