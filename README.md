@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/jonrysimbolon/jonrysimbolon/blob/main/header.png)](https://github.com/jonrysimbolon)
 
-- 👀 I’m interested in android programming
-- 🌱 I’m currently learn kotlin unit test/ instrument test, MVVM, MVC, and MVP
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4F798&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%80++I%E2%80%99m+interested+in+android+programming)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon&theme=algolia&hide_border=true&border_radius=20)](https://github.com/jonrysimbolon/github-readme-stats)
 
