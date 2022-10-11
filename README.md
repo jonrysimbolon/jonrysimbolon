@@ -4,6 +4,8 @@
 - 📫 How to reach me
     - linkedin : -https://www.linkedin.com/in/jonry-simbolon-295b84134/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon&theme=algolia&hide_border=true&border_radius=20)](https://github.com/jonrysimbolon/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonrysimbolon&layout=compact&theme=algolia&hide_border=true&border_radius=20)](https://github.com/jonrysimbolon/github-readme-stats)
 
 
