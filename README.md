@@ -4,7 +4,7 @@
 - 📫 How to reach me
     - linkedin : -https://www.linkedin.com/in/jonry-simbolon-295b84134/
 
-![jonrysimbolon19's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon&show_icons=true&hide_border=true&theme=algolia&border_radius=20) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonrysimbolon&theme=algolia&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonrysimbolon&theme=algolia&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 
 
