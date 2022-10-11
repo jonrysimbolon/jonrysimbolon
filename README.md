@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @jonrysimbolon
+[![MasterHead](https://github.com/jonrysimbolon/jonrysimbolon/blob/main/header.png)](https://github.com/jonrysimbolon)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jonry-simbolon-295b84134/" height="30" width="40" /></a>
+</p>
+
+
 - 👀 I’m interested in android programming
 - 🌱 I’m currently learn kotlin unit test/ instrument test, MVVM, MVC, and MVP
-- 📫 How to reach me
-    - linkedin : -https://www.linkedin.com/in/jonry-simbolon-295b84134/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon&theme=algolia&hide_border=true&border_radius=20)](https://github.com/jonrysimbolon/github-readme-stats)
 
