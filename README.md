@@ -6,4 +6,20 @@
 
 ![jonrysimbolon19's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon&show_icons=true&theme=algolia)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ini bagian akhir -->
 [![@jonrysimbolon19's Holopin board](https://holopin.io/api/user/board?user=jonrysimbolon19)](https://holopin.io/@jonrysimbolon19)
