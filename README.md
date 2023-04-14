@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon&theme=algolia&hide_border=true&border_radius=20)](https://github.com/jonrysimbolon/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonrysimbolon&layout=compact&theme=algolia&hide_border=true&border_radius=0)](https://github.com/jonrysimbolon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonrysimbolon&layout=compact&theme=algolia&hide_border=true&border_radius=20)](https://github.com/jonrysimbolon/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonrysimbolon&theme=algolia&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
