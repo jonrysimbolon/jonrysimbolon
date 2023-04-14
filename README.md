@@ -9,16 +9,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonrysimbolon&theme=algolia&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
-
-
-
-
-
-
-
-
-
-
 ![jonrysimbolon19's Github Trophy](https://github-profile-trophy.vercel.app/?username=jonrysimbolon&theme=algolia)
 
 <!-- ini bagian akhir -->
