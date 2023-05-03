@@ -20,15 +20,15 @@
 
 
 # All
-- [x][SOLID](https://www.dicoding.com/certificates/MRZMD74NNZYQ)
+[x][SOLID](https://www.dicoding.com/certificates/MRZMD74NNZYQ)
 
 # ANDROID
-- [x][Kotlin Dasar](https://www.dicoding.com/certificates/EYX49RMLWPDL)
-- [x][Android Pemula](https://www.dicoding.com/certificates/MEPJKL54WX3V)
-- [x][Android Fundamental](https://www.dicoding.com/certificates/JMZV9QW13PN9)
-- [ ]Android Intermediate (⏳)
-- [ ]Android Expert
-> [ ][**compose] Belajar Membuat Aplikasi Android dengan Jetpack Compose
+[x][Kotlin Dasar](https://www.dicoding.com/certificates/EYX49RMLWPDL)
+[x][Android Pemula](https://www.dicoding.com/certificates/MEPJKL54WX3V)
+[x][Android Fundamental](https://www.dicoding.com/certificates/JMZV9QW13PN9)
+[ ]Android Intermediate (⏳)
+[ ]Android Expert
+[ ] > [**compose] Belajar Membuat Aplikasi Android dengan Jetpack Compose
 
 # IOS
 - Memulai pemrograman dengan dart (❌)
