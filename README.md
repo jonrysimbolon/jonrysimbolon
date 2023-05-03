@@ -19,36 +19,27 @@
 </p>
 
 
-## ANDROID
-Kotlin Dasar (🎯)
+# All
+- [x][SOLID](https://www.dicoding.com/certificates/MRZMD74NNZYQ)
 
-Android Pemula (🎯)
+# ANDROID
+- [x][Kotlin Dasar](https://www.dicoding.com/certificates/EYX49RMLWPDL)
+- [x][Android Pemula](https://www.dicoding.com/certificates/MEPJKL54WX3V)
+- [x][Android Fundamental](https://www.dicoding.com/certificates/JMZV9QW13PN9)
+- [ ]Android Intermediate (⏳)
+- [ ]Android Expert
+> [ ][**compose] Belajar Membuat Aplikasi Android dengan Jetpack Compose
 
-Android Fundamental (🎯)
-
-Android Intermediate (⏳)
-
-Android Expert (❌)
-
-[compose] Belajar Membuat Aplikasi Android dengan Jetpack Compose (❌)
-
-## IOS
-Memulai pemrograman dengan dart (❌)
-
-Belajar membuat aplikasi flutter untuk pemula (❌)
-
-Belajar fundamental aplikasi flutter (❌)
-
-Belajar pengembangan aplikasi flutter intermediate (❌)
-
-Menjadi flutter developer expert (❌)
+# IOS
+- Memulai pemrograman dengan dart (❌)
+- Belajar membuat aplikasi flutter untuk pemula (❌)
+- Belajar fundamental aplikasi flutter (❌)
+- Belajar pengembangan aplikasi flutter intermediate (❌)
+- Menjadi flutter developer expert (❌)
 
 
 # FLUTTER
-Memulai pemrograman dengan swift (❌)
-
-Belajar membuat aplikasi ios untuk pemula (❌)
-
-Belajar fundamental aplikasi ios (❌)
-
-Menjadi ios developer expert (❌)
+- Memulai pemrograman dengan swift (❌)
+- Belajar membuat aplikasi ios untuk pemula (❌)
+- Belajar fundamental aplikasi ios (❌)
+- Menjadi ios developer expert (❌)
