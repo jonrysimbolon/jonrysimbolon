@@ -14,11 +14,6 @@
 <!-- ini bagian akhir -->
 [![@jonrysimbolon19's Holopin board](https://holopin.io/api/user/board?user=jonrysimbolon19)](https://holopin.io/@jonrysimbolon19)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/jonry-simbolon-295b84134/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />  Linkedin</a>
-</p>
-
-
 # All
 - [x] [SOLID](https://www.dicoding.com/certificates/MRZMD74NNZYQ)
 
