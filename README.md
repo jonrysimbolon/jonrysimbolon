@@ -20,7 +20,7 @@
 
 
 # All
-[x][SOLID](https://www.dicoding.com/certificates/MRZMD74NNZYQ)
+[x] [SOLID](https://www.dicoding.com/certificates/MRZMD74NNZYQ)
 
 # ANDROID
 [x][Kotlin Dasar](https://www.dicoding.com/certificates/EYX49RMLWPDL)
