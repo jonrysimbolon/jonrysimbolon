@@ -19,7 +19,7 @@
 </p>
 
 
-#ANDROID
+## ANDROID
 Kotlin Dasar (🎯)
 
 Android Pemula (🎯)
@@ -32,7 +32,7 @@ Android Expert (❌)
 
 [compose] Belajar Membuat Aplikasi Android dengan Jetpack Compose (❌)
 
-#IOS
+## IOS
 Memulai pemrograman dengan dart (❌)
 
 Belajar membuat aplikasi flutter untuk pemula (❌)
@@ -44,7 +44,7 @@ Belajar pengembangan aplikasi flutter intermediate (❌)
 Menjadi flutter developer expert (❌)
 
 
-#FLUTTER
+# FLUTTER
 Memulai pemrograman dengan swift (❌)
 
 Belajar membuat aplikasi ios untuk pemula (❌)
