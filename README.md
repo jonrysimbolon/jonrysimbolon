@@ -21,7 +21,7 @@
 - [x] [Kotlin Dasar](https://www.dicoding.com/certificates/EYX49RMLWPDL)
 - [x] [Android Pemula](https://www.dicoding.com/certificates/MEPJKL54WX3V)
 - [x] [Android Fundamental](https://www.dicoding.com/certificates/JMZV9QW13PN9)
-- [ ] Android Intermediate (⏳)
+- [x] [Android Intermediate](https://www.dicoding.com/certificates/1OP80JN0VXQK)
 - [ ] Android Expert
 - [ ] > [**compose] Belajar Membuat Aplikasi Android dengan Jetpack Compose
 
