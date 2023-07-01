@@ -27,7 +27,9 @@
 - [x] [Android Fundamental](https://www.dicoding.com/certificates/JMZV9QW13PN9)
 - [x] [Android Intermediate](https://www.dicoding.com/certificates/1OP80JN0VXQK)
 - [ ] Android Expert
-- [ ] > [**compose] Belajar Membuat Aplikasi Android dengan Jetpack Compose
+
+# COMPOSE
+- [ ] Belajar Membuat Aplikasi Android dengan Jetpack Compose
 
 # FLUTTER
 - [ ] Memulai pemrograman dengan dart
