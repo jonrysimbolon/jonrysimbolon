@@ -15,8 +15,9 @@
 ![jonrysimbolon19's Github Trophy](https://github-profile-trophy.vercel.app/?username=jonrysimbolon&theme=algolia)
 -->
 
-<!-- ini bagian akhir -->
+<!-- 
 [![@jonrysimbolon19's Holopin board](https://holopin.io/api/user/board?user=jonrysimbolon19)](https://holopin.io/@jonrysimbolon19)
+-->
 
 # All
 - [x] [SOLID](https://www.dicoding.com/certificates/MRZMD74NNZYQ)
