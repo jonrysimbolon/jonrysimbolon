@@ -4,10 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=D4F798&center=true&vCenter=true&width=470&height=70&lines=Android+Developer)](https://git.io/typing-svg)
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon&theme=algolia&hide_border=true&border_radius=10)](https://github.com/jonrysimbolon/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonrysimbolon&layout=compact&theme=algolia&hide_border=true&border_radius=10)](https://github.com/jonrysimbolon/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonrysimbolon&theme=algolia&hide_border=true&border_radius=10)](https://github.com/jonrysimbolon/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonrysimbolon&theme=algolia&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
