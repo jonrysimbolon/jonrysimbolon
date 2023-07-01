@@ -25,7 +25,7 @@
 - [ ] Android Expert
 - [ ] > [**compose] Belajar Membuat Aplikasi Android dengan Jetpack Compose
 
-# IOS
+# FLUTTER
 - Memulai pemrograman dengan dart (❌)
 - Belajar membuat aplikasi flutter untuk pemula (❌)
 - Belajar fundamental aplikasi flutter (❌)
@@ -33,7 +33,7 @@
 - Menjadi flutter developer expert (❌)
 
 
-# FLUTTER
+# IOS
 - Memulai pemrograman dengan swift (❌)
 - Belajar membuat aplikasi ios untuk pemula (❌)
 - Belajar fundamental aplikasi ios (❌)
