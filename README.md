@@ -34,7 +34,7 @@
 - [ ] Belajar Membuat Aplikasi Android dengan Jetpack Compose
 
 # FLUTTER
-- [ ] Memulai pemrograman dengan dart
+- [X] [Memulai pemrograman dengan dart](https://www.dicoding.com/certificates/MRZMLD6LNXYQ)
 - [ ] Belajar membuat aplikasi flutter untuk pemula
 - [ ] Belajar fundamental aplikasi flutter
 - [ ] Belajar pengembangan aplikasi flutter intermediate
