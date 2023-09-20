@@ -35,7 +35,7 @@
 
 # FLUTTER
 - [X] [Memulai pemrograman dengan dart](https://www.dicoding.com/certificates/MRZMLD6LNXYQ)
-- [ ] Belajar membuat aplikasi flutter untuk pemula
+- [X] [Belajar membuat aplikasi flutter untuk pemula](https://www.dicoding.com/certificates/81P2771QOZOY)
 - [ ] Belajar fundamental aplikasi flutter
 - [ ] Belajar pengembangan aplikasi flutter intermediate
 - [ ] Menjadi flutter developer expert
@@ -47,6 +47,18 @@
 - [ ] Belajar fundamental aplikasi ios
 - [ ] Menjadi ios developer expert
 
+# Front End
+- [ ] Belajar dasar pemrograman web
+- [ ] Belajar membuat front-end web untuk pemula
+
+# Back End
+- [ ] Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
+- [ ] Belajar Dasar Pemrograman JavaScript
+- [ ] Belajar Membuat Aplikasi Back-End untuk Pemula
+
+# Dev Ops
+- [ ] Belajar Dasar-Dasar DevOps
+- [ ] Belajar Jaringan Komputer untuk Pemula
 
 # Support me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jonrysimboZ)
