@@ -48,7 +48,7 @@
 - [ ] Menjadi ios developer expert
 
 # Front End
-- [ ] Belajar dasar pemrograman web
+- [X] [Belajar dasar pemrograman web](https://www.dicoding.com/certificates/98XWVO76JPM3)
 - [ ] Belajar membuat front-end web untuk pemula
 
 # Back End
