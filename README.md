@@ -57,7 +57,7 @@
 - [ ] Belajar Membuat Aplikasi Back-End untuk Pemula
 
 # Dev Ops
-- [ ] Belajar Dasar-Dasar DevOps
+- [X] [Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/81P27OG4QZOY)
 - [ ] Belajar Jaringan Komputer untuk Pemula
 
 # Support me
