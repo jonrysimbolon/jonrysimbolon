@@ -53,7 +53,7 @@
 
 # Back End
 - [ ] Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
-- [ ] Belajar Dasar Pemrograman JavaScript
+- [X] [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/07Z687972XQR)
 - [ ] Belajar Membuat Aplikasi Back-End untuk Pemula
 
 # Dev Ops
