@@ -12,9 +12,11 @@ i live on medan, indonesia.
 i'm an android developer and also learn another things outside it but still on tech path.  
 my experience on this field (exactly on android) approximately 5 years since 2017.  
 i use java (since 2017) and kotlin (since 2019) and also use swift/swift-ui to make IOS App.  
-i eager to learn about programming especially on android field but it doesn't rule out the possibility that i could learn another things outside it.
+i eager to learn about programming especially on android field but it doesn't rule out the possibility that i could learn another things outside it.  
 previously, i work on [zoneordering](http://zoneordering.net/zoneordering/) (2017 - 2022) software house as mobile developer role.  
 currently, i open for another opportunity on android field with intermediate skill, web dev (FE, BE) with fresh graduate skill.  
+
+# About this github page
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonrysimbolon&theme=algolia&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
