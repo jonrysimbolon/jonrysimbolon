@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=jonrysimbolon&color=red)
 
 # Biography
-Hello, my name is Jonry Simbolon.__
+Hello, my name is Jonry Simbolon.  
 i live on medan, indonesia.__
 i'm an android developer and also learn another things outside it but still on tech path.__
 my experience on this field (exactly on android) approximately 5 years since 2017.__
