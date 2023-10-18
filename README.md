@@ -1,10 +1,9 @@
-<!--
+![](https://komarev.com/ghpvc/?username=jonrysimbolon&color=red)
 [![MasterHead](https://github.com/jonrysimbolon/jonrysimbolon/blob/main/header.png)](https://github.com/jonrysimbolon)
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=D4F798&center=true&vCenter=true&width=470&height=70&lines=Android+Developer)](https://git.io/typing-svg)
 -->
-
-![](https://komarev.com/ghpvc/?username=jonrysimbolon&color=red)
 
 # Biography
 Hello, my name is Jonry Simbolon.  
