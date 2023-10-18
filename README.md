@@ -61,16 +61,30 @@ currently, i open for another opportunity on android field with intermediate ski
 
 # Front End
 - [X] [Belajar dasar pemrograman web](https://www.dicoding.com/certificates/98XWVO76JPM3)
-- [ ] Belajar membuat front-end web untuk pemula
+- [X] [Belajar membuat front-end web untuk pemula](https://www.dicoding.com/certificates/N9ZO5L500PG5)
+- [ ] Belajar Fundamental Front-End Web Development
+- [ ] Belajar Tools Front-End Web Intermediate
+- [ ] Menjadi Front-End Web Developer Expert
 
 # Back End
 - [ ] Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
 - [X] [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/07Z687972XQR)
 - [ ] Belajar Membuat Aplikasi Back-End untuk Pemula
+- [ ] Architecting on AWS (Membangun Arsitektur Cloud di AWS)
+- [ ] Belajar Fundamental Aplikasi Back-End
+- [ ] Menjadi Back-End Developer Expert
+
+# React
+- [ ] Belajar membuat aplikasi web dengan React
+- [ ] Belajar fundamental aplikasi web dengan React
+- [ ] Menjadi React Web Developer Expert
 
 # Dev Ops
 - [X] [Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/81P27OG4QZOY)
 - [ ] Belajar Jaringan Komputer untuk Pemula
+- [ ] Menjadi Linux System Administrator
+- [ ] Belajar Implementasi CI/CD
+- [ ] Belajar Membangun Arsitektur Microservices
 
 # Support me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jonrysimboZ)
