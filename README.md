@@ -67,9 +67,9 @@ currently, i open for another opportunity on android field with intermediate ski
 - [ ] Menjadi Front-End Web Developer Expert
 
 # Back End
-- [ ] Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
+- [X] [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/53XE4G61RZRN)
 - [X] [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/07Z687972XQR)
-- [ ] Belajar Membuat Aplikasi Back-End untuk Pemula
+- [X] [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/EYX4YMG9WZDL)
 - [ ] Architecting on AWS (Membangun Arsitektur Cloud di AWS)
 - [ ] Belajar Fundamental Aplikasi Back-End
 - [ ] Menjadi Back-End Developer Expert
@@ -81,7 +81,7 @@ currently, i open for another opportunity on android field with intermediate ski
 
 # Dev Ops
 - [X] [Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/81P27OG4QZOY)
-- [ ] Belajar Jaringan Komputer untuk Pemula
+- [X] [Belajar Jaringan Komputer untuk Pemula](https://www.dicoding.com/certificates/L4PQ8JL2QZO1)
 - [ ] Menjadi Linux System Administrator
 - [ ] Belajar Implementasi CI/CD
 - [ ] Belajar Membangun Arsitektur Microservices
