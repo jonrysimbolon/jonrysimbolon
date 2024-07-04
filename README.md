@@ -12,7 +12,8 @@ i live on medan, indonesia.
 i'm an android developer and also learn another things outside it but still on tech path.  
 
 # About this github page
-[!["Link Porto"]](https://www.hahaha.com)
+[Link Porto](https://www.hahaha.com)
+
 [!["My Apps on google play"]](https://www.hihihi.com)
 
 # Support me
