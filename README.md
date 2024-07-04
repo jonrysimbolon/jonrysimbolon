@@ -14,7 +14,7 @@ i'm an android developer and also learn another things outside it but still on t
 # About this github page
 [Link Porto](https://www.hahaha.com)
 
-[!["My Apps on google play"]](https://www.hihihi.com)
+[My Apps on google play](https://www.hihihi.com)
 
 # Support me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jonrysimboZ)
