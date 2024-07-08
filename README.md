@@ -9,7 +9,7 @@
 # Biography
 Hello, my name is Jonry Simbolon.  
 i live on medan, indonesia.  
-i'm an android developer and also learn another things outside it but still on tech path.  
+i'm an android developer for freelance and fullstact developer for real work and also learn another things outside it but still on tech path.  
 
 # About this github page
 [Link Porto](https://www.hahaha.com)
