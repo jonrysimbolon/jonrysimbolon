@@ -10,8 +10,8 @@ i'm an android developer for freelance and fullstack developer for real work and
 [Jonry Simbolon](https://www.jonrysimbolon.com)
 
 # My Apps On Google Play
-- [Roster App](https://play.google.com/store/apps/details?id=com.rosterr)
-- [Misdinar DPGP Martubung](https://play.google.com/store/apps/details?id=com.misdinardpgpmartubung)
+- [Roster App (Compose)](https://play.google.com/store/apps/details?id=com.rosterr)
+- [Misdinar DPGP Martubung (Compose)](https://play.google.com/store/apps/details?id=com.misdinardpgpmartubung)
 - [Internet Checker](https://play.google.com/store/apps/details?id=com.jonrysimbolon.networkstatustracker)
 
 # Support me
