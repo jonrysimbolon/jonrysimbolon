@@ -10,7 +10,7 @@ i'm an android developer for freelance and fullstack developer for real work and
 [Jonry Simbolon](https://www.jonrysimbolon.com)
 
 # My Apps On Google Play
-- [Digi App (kotlin-xml)](https://play.google.com/store/apps/details?id=id.zoneordering.gamecapstone1)
+- [Digimon App (kotlin-xml)](https://play.google.com/store/apps/details?id=id.zoneordering.gamecapstone1)
 
 # Support me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jonrysimboZ)
