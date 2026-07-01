@@ -9,7 +9,7 @@ i'm an android developer for freelance and fullstack developer for real work and
 # My Personal CV and Portofolio
 [Jonry Simbolon](https://jonryweb.vercel.app/)
 
-# My Apps On Google Play
+# My Mobile Apps
 - [Digimon App (kotlin-xml)](https://play.google.com/store/apps/details?id=id.zoneordering.gamecapstone1)
 
 # My Web
