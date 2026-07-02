@@ -7,6 +7,7 @@ i live on medan, indonesia.
 i'm an android developer for freelance and fullstack developer for real work and also learn another things outside it but still on tech path.  
 
 # My Personal CV and Portofolio
+[Jonry Simbolon](https://simbolonjo.web.id/)
 [Jonry Simbolon](https://jonryweb.vercel.app/)
 
 # My Mobile Apps
